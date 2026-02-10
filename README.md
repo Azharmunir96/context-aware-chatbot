@@ -4,7 +4,6 @@
 A **context-aware chatbot** built using **LangChain** and **Ollama Llama 3** models, deployed via **Streamlit**.  
 This chatbot remembers conversational context within a session and responds with a persona-driven style (e.g., acting like an astronaut).
 
-> ⚠ Note: Currently, the chatbot maintains **in-session context memory** but does not implement **RAG from external document sources** yet.
 
 ---
 
