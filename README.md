@@ -58,7 +58,7 @@ It is designed as a foundation for more advanced **RAG-enabled chatbots**, where
 1. **Clone the repository:**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Azharmunir96/context-aware-chatbot.git
 cd "ollama chatbot"
 ````
 
