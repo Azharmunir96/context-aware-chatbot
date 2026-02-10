@@ -14,10 +14,9 @@ This chatbot remembers conversational context within a session and responds with
 3. [System Requirements](#system-requirements)  
 4. [Installation](#installation)  
 5. [Usage](#usage)  
-6. [Project Structure](#project-structure)  
-7. [Future Enhancements](#future-enhancements)  
-8. [Skills Gained](#skills-gained)  
-9. [References](#references)  
+6. [Future Enhancements](#future-enhancements)  
+7. [Skills Gained](#skills-gained)  
+
 
 ---
 
@@ -104,21 +103,6 @@ streamlit run 4_chatbot_ollama.py
 * The AI responds according to its persona and remembers previous messages.
 * Example system persona: `"Act like an astronaut"`.
 
----
-
-## Project Structure
-
-```
-ollama chatbot/
-│
-├─ venv/                       # Virtual environment
-├─ 1_python_ollama.py           # Python-only Llama 3 interaction demo
-├─ 2_streamlit_example.py       # Basic Streamlit chat example
-├─ 3_chatbot_echo.py            # Streamlit echo chatbot demo
-├─ 4_chatbot_ollama.py          # Full context-aware Streamlit chatbot with Llama 3.2
-├─ README.md                    # Project documentation
-├─ requirements.txt             # Optional: list of Python dependencies
-```
 
 ---
 
